@@ -1,0 +1,3 @@
+createSprite(width / 2 - 50, height - 100);
+createSprite(width / 2 + 100, height - 100);
+car1.scale = 0.07;
